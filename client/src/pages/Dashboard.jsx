@@ -55,7 +55,7 @@ const Dashboard = () => {
 				</div>
 			) : (
 				<div className='w-2/5 ml-96 pt-16'>
-					<h1>Failed to load the picture of the day</h1>
+					<h1>Failed to load the picture of the day.</h1>
 				</div>
 			)}
 		</main>
